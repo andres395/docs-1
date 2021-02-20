@@ -1,4 +1,4 @@
----
+-script-all-files from {andres}-ip dev-web from dev-framework dev- (%s)
 title: Connecting to GitHub with SSH
 intro: 'You can connect to {% data variables.product.product_name %} using SSH.'
 redirect_from:
